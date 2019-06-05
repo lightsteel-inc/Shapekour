@@ -40,14 +40,6 @@ button {
  
 }
 
-
-.secret {
-display:none;
-color:white; 
-font-family:Helvicta,sans-serif;
-  
-}
-
 span {
 color:white;
 font-family:Helvicta,sans-serif;
@@ -59,7 +51,7 @@ display:block
  
   canvas {
     border: 3px solid white;
-    margin-top:18%;
+    margin-top:15%;
     background:powderblue;
   
   }
