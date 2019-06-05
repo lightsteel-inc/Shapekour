@@ -55,7 +55,7 @@ this.p3y = p3y || 0;
     this.color = color || '#ce0606';
     
 }
-var player = new rect(25,25,25,25,'#f7f31d');
+var player = new rect(25,25,25,25,'orange');
 var ob = [
     new rect(100,180,100,25,'grey'), //moving rect
     new rect(0,50,150,20,'grey'), //top left
@@ -129,6 +129,18 @@ var levels = [()=>{
     ground.refresh();
     ob.forEach(x=>x.refresh());
 }]
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
